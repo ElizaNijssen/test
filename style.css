@@ -1,0 +1,74 @@
+body {
+    background-color: gray;
+}
+
+/*image */
+img {
+    width: 100px;
+}
+
+img:hover{
+    cursor: pointer;
+}
+
+/* text background*/
+h1 {
+    position:absolute;
+    top: 40%;
+    left: 55%;
+    color: white;
+    font-size: 60px;
+    font-family: 'Lucida Sans';
+}
+
+
+/*button list*/
+ul {
+    width: 280px;
+    padding-left: 0px;
+    border: solid black 8px;
+    visibility: hidden;
+}
+
+ul:hover {
+    cursor: pointer;
+}
+
+li {
+    color: white;
+    padding: 10px;
+    margin-left: 20px;
+    font-size: 25px;
+    list-style: none;
+}
+
+h2{
+    font-size: 22px;
+    font-family: 'Times New Roman';
+    font-weight: 150;
+}
+
+#gray-btn {
+    background-color: gray;
+    margin-left: 0px;
+}
+
+#red-btn {
+    background-color: red;
+    margin-left: 0px;
+}
+
+#blue-btn {
+    background-color: blue;
+    margin-left: 0px;
+}
+
+#purple-btn {
+    background-color: purple;
+    margin-left: 0px;
+}
+
+#pink-btn {
+    background-color: pink;
+    margin-left: 0px;
+}
